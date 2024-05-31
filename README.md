@@ -1,0 +1,2 @@
+# prank
+simple prank page 
